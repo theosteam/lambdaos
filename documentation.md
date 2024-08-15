@@ -104,4 +104,3 @@ If you have any questions, feedback, or need support, feel free to reach out:
 
 - **Email**: [opensystemteam1@gmail.com](mailto:opensystemteam1@gmail.com)
 - **Discord**: [Join our community](https://discord.com/invite/T2wwXw4yrp)
-```
