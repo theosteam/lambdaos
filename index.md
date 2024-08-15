@@ -23,13 +23,13 @@ LambdaOS is designed with a focus on aesthetics and efficiency. It refines the K
 
 Getting LambdaOS up and running is easy! Follow these steps to install:
 
-1. **Download the ISO**: Get the latest release from our [releases page](#).
+1. **Download the ISO**: Get the latest release from our [releases page](https://drive.google.com/file/d/1vrZ7_jmjTdc_1lPE_mvkyO74ilKF2D6V/view?usp=sharing).
 2. **Create a Bootable USB**: Use a tool like Rufus or balenaEtcher to create a bootable USB drive.
 3. **Install**: Boot from the USB and follow the on-screen instructions to install LambdaOS.
 
 ## Documentation
 
-For detailed instructions and guides, check out our [documentation](#).
+For detailed instructions and guides, check out our [documentation](documentation.md).
 
 ## Contribute
 
