@@ -21,6 +21,7 @@ Welcome to the LambdaOS documentation! This guide covers everything you need to 
 ## Introduction
 
 LambdaOS is a Kubuntu-based Linux distribution that emphasizes aesthetics and performance. Whether you're new to Linux or a seasoned user, LambdaOS provides a sleek and efficient environment tailored to your needs.
+
 <sub>Believe me, it's possible to have both.</sub>
 <sub>-SDCast</sub>
 
